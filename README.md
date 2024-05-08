@@ -15,14 +15,14 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
+<!--- ![snake gif](https://github.com/DLoginTM/DLoginTM/blob/output/github-contribution-grid-snake.gif) --->
 
-<!--- 
-<!--   green snake 
+<!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
 
-<!-- dark snake 
+<!-- dark snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
-<!--   profile-green-animate 
-![](./profile-3d-contrib/profile-green-animate.svg) ---> 
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
