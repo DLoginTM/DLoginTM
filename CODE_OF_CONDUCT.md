@@ -3,8 +3,7 @@
     <a href="https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct#overview-and-purpose"><img src="https://img.shields.io/badge/GitHub%20Community%20Code%20Of%20Conduct-N/A-4baaaa.svg"></a> 
     <a href="https://docs.github.com/en/site-policy/github-terms/github-event-code-of-conduct"><img src="https://img.shields.io/badge/GitHub%20Event%20Code%20Of%20Conduct-N/A-4baaaa.svg"></a>
 </p>
-
-    A Code of Conduct for Open Source Communities
+     - A Code of Conduct for Open Source Communities
     ----------------------------------------------
     Participating in open source is often a highly collaborative experience. 
     We’re encouraged to create in public view, and we’re incentivized to welcome
