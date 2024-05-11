@@ -24,5 +24,5 @@
 <!-- dark snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!--   GitHub stats graph -->
+### GitHub Profile Summery:
