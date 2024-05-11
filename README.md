@@ -25,5 +25,6 @@
 ### GitHub Profile Summery:
 <img src="/githubProfile_Matrics_1.svg" alt="Metrics" width="100%">
 
+### 📈 GitHub Activity Graph:
 <!-- dark snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
